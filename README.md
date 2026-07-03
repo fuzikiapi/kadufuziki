@@ -19,18 +19,18 @@ Me chamo Kadu Vinícius Fuziki, tenho 24 anos e sou natural do Paraná. Atualmen
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCorO2p2QJzttgOPvWhUF_zA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/duki2k?tab=repositories&sort=stargazers">
+    <a href="https://github.com/fuzikiapi?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/duki2k?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/fuzikiapi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/duki2k?tab=followers">
+    <a href="https://github.com/fuzikiapi?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/duki2k?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/fuzikiapi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
