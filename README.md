@@ -91,14 +91,14 @@ Me chamo Kadu Vinícius Fuziki, tenho 24 anos e sou natural do Paraná. Atualmen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=duki2k&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=fuzikiapi&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=duki2k&theme=tokyonight&layout=compact&custom_title=Programas&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzikiapi&theme=tokyonight&layout=compact&custom_title=Programas&langs_count=9" 
   />
 
 </p>
